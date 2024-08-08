@@ -1,0 +1,102 @@
+div {
+  width: 90px;
+  height: 90px;
+  background-color: yellowgreen;
+  border: 2px solid purple; 
+  display: inline-block;
+  margin: 20px auto;
+}
+#box{
+  background-color: lightcyan;
+  position: fixed;
+  margin: 20px 30px;
+}
+#box1{
+  position: relative;
+  margin-left: 40px;
+}
+#box2{
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  margin-left: 20px;
+  background-color: purple;
+  border: 2px solid white;
+}
+#box3{
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  margin-left: 8px;
+ background-color: white; 
+  border: 2px solid black;
+}
+#sec1{
+  border: 4px solid grey;
+}
+#btn{
+  background-color: white;
+  border: 2px solid blue;
+  width: 60px;
+  height: 35px;
+  position: fixed;
+  margin: 40px 10px;
+}
+#btn1{
+  background-color: cyan;
+  border: 3px solid black;
+  position: relative;
+  margin: 10px 15px;
+}
+#btn2{
+ width: 45px; 
+  height: 45px;
+  background-color: green;
+  border: 2px solid blue;
+  margin: 10px 10px;
+  position: absolute;
+}
+#btn3{
+  background-color: pink;
+  border: 2px solid blueviolet;
+  position: fixed;
+  width: 40px;
+  margin: 16px 30px;
+  height: 40px;
+}
+#sec2{
+  border: 6px solid pink;
+  position: relative;
+}
+#div1{
+  width: 140px;
+  height: 140px;
+  margin: 10px 20px;
+  position: absolute;
+  background-color: red;
+  border: 4px solid sandybrown;
+}
+#div2{
+ left: 48px;
+  top: 2rem;
+  width: 160px;
+  height: 80px;
+  border: 2px solid black;
+  background-color: salmon;
+  position: absolute;
+}
+#div3{
+  border: 6px solid seagreen;
+  background-color: violet;
+  width: 60px;
+  margin-left: 20px;
+  position: fixed;
+  height: 80px;
+}
+#div4{
+  width: 140px;
+  height: 140px;
+  margin: 10px 180px;
+  background-color: red;
+  border: 4px solid sandybrown;
+}
